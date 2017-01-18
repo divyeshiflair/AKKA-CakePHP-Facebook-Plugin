@@ -1,5 +1,6 @@
 > IMPORTANT:
 > Beta support for Facebook SDKv5
+> More info to come next
 
 # CakePHP 3 Facebook Plugin
 
